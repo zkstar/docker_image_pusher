@@ -2,3 +2,6 @@ nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
+nocodb/nocodb:0.207.3
+b3log/siyuan:v3.0.17
+neosmemo/memos:0.22.2
