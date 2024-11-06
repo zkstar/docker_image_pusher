@@ -8,3 +8,4 @@
 #b3log/siyuan:v3.0.17
 #neosmemo/memos:0.22.2
 ghcr.io/linkwarden/linkwarden:v2.7.1
+ghcr.io/requarks/wiki:3.0.0-alpha
